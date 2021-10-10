@@ -17,6 +17,7 @@
 
 #cardContainer {
     display:inline-block;
+    overflow: hidden;
 }
 
 #contatModal {
