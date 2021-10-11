@@ -8,6 +8,11 @@ body {
 
 .nav{
     background-color: #2A2F33;
+    /* align-items: center; */
+}
+
+#icons {
+    align-items: center;
 }
 
 #profilePic {
@@ -94,3 +99,13 @@ body {
     }
 }
 
+@media screen and (max-width: 778px) {
+    main,
+    nav {
+        flex-direction: column;
+    }
+    body{
+        width: auto;
+        margin: 2px;
+    }
+}
