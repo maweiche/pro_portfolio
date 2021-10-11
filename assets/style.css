@@ -3,12 +3,16 @@
 }
 
 body {
-    background-color: #BBB6A5;
+    background-color: #468189;
 }
 
 .nav{
-    background-color: #2A2F33;
+    background-color: #031926;
     /* align-items: center; */
+}
+
+h5{
+    font-weight: 900;
 }
 
 #icons {
@@ -29,14 +33,14 @@ body {
     overflow:hidden;
     height: fit-content;
     width: 100%;
-    background: radial-gradient(circle at bottom, rgb(14, 83, 14) 0, black 100%);
+    background: radial-gradient(circle at bottom, grey 0, #031926 100%);
 }
 
 #p2 {
     align-items: center;
     overflow: hidden;
     border: 1px solid lightslategray;
-    background: radial-gradient(circle at top right, rgb(14, 83, 14) 0, black 100%);
+    background: radial-gradient(circle at top right, grey 0, #031926 100%);
     width: 50%;
     height: 50vh;
 }
@@ -45,7 +49,7 @@ body {
     align-items: center;
     overflow: hidden;
     border: 1px solid lightslategray;
-    background: radial-gradient(circle at top left, rgb(14, 83, 14) 0, black 100%);
+    background: radial-gradient(circle at top left, grey 0, #031926 100%);
     width: 50%;
     height: 50vh;
 }
@@ -54,8 +58,13 @@ body {
     overflow: hidden;
     min-height: fit-content;
     margin: 5px;
-    background: #8C9491;
+    background: #F4E9CD;
+    color: #031926;
+    min-width: 100%;
+    text-align: center;
 }
+
+
 
 #contactModal {
     animation-name: rotate;
