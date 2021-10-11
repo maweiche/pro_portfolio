@@ -1,36 +1,6 @@
 # pro_portfolio# Project Title
 
-One paragraph of project description goes here.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development environment running.
-
-Say what the step will be:
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+The goal of this portfolio was to provide an updated snapshot of my current professional work. Within this portfolio I wanted to bring my projects to life and have animated gifs opposed to a static screenshot. Users have the ability to reach my social media channels with the click of an icon, send me an email through an on-screen modal, or just look at the current time and weather. These features are all possible through HTML, CSS, and JavaScript. The site is primarily constructed of Bootstrap and custom CSS.
 
 
 ## Built With
@@ -38,6 +8,9 @@ End with an example of getting some data out of the system or using it for a lit
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Bootstrap](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Moment.JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 ## Deployed Link
 

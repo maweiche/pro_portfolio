@@ -11,13 +11,20 @@ body {
     /* align-items: center; */
 }
 
+#time{
+    color: white;
+    text-align: center;
+}
+
 h5{
     font-weight: 900;
 }
 
-#icons {
-    align-items: center;
+#icons, #resume {
+    text-align: center;
 }
+
+
 
 #profilePic {
     border-radius: 50%;
