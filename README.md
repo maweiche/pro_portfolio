@@ -1,6 +1,6 @@
 # pro_portfolio# Project Title
 
-The goal of this portfolio was to provide an updated snapshot of my current professional work. Within this portfolio I wanted to bring my projects to life and have animated gifs opposed to a static screenshot. Users have the ability to reach my social media channels with the click of an icon, send me an email through an on-screen modal, or just look at the current time and weather. These features are all possible through HTML, CSS, and JavaScript. The site is primarily constructed of Bootstrap and custom CSS.
+The goal of this portfolio was to provide an updated snapshot of my current professional work. Within this portfolio I wanted to bring my projects to life and have animated gifs opposed to a static screenshot. Users have the ability to reach my social media channels with the click of an icon, download my resume, send me an email through an on-screen modal, or just look at the current time. These features are all possible through HTML, CSS, and JavaScript. The site is primarily constructed of Bootstrap/Custom CSS and is Mobile Responsive, adapting to any screen size by stacking into columns and shrinking.
 
 
 ## Built With
@@ -9,23 +9,24 @@ The goal of this portfolio was to provide an updated snapshot of my current prof
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Bootstrap](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Moment.JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+* [Moment.JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://maweiche.github.io/pro_portfolio/)
+
+## Live Site Snapshot
+
+![Portfolio gif](./assets/images/portfolioMR.gif)
 
 
 ## Authors
 
-* **YOUR NAME** 
+* **Matt Weichel** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- [Link to Portfolio Site](https://maweiche.github.io/pro_portfolio/)
+- [Link to Github](https://github.com/maweiche)
+- [Link to LinkedIn](https://www.linkedin.com/in/mattweichel/)
 
 ## License
 
@@ -34,5 +35,3 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 * Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
